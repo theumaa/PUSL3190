@@ -1,0 +1,20 @@
+.CardsAreaRow{
+    display: flex;
+    flex-direction:row;
+    margin:auto;
+    justify-content: center;
+  }
+  
+  .Card{
+    display:flex;
+    width: 20vw;
+    height: 25vh;
+    margin: 2vw;
+    background-color: white;
+    justify-content: center;
+    font: jua;
+    font-size: xx-large;
+    align-items: center;
+    text-align: center;
+    border-radius: 20px;
+  }

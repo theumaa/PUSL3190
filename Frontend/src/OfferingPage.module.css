@@ -1,0 +1,156 @@
+.Parent{
+  display: grid;
+  grid-template-rows:15% 85% ;
+  padding:3%;
+  height: 94%;
+}
+.Title{
+font-family: Jua;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal; 
+display: flex;
+flex-direction: row; 
+}
+.WhiteText{
+    color: #FFF;
+}
+.ColoredText{
+    color: #C0B070;
+}
+.Rest{
+   display: grid;
+   grid-template-columns:auto auto auto ; 
+}
+
+.CardSilver{
+display: flex;
+flex-direction:column;    
+align-items: center;
+width: 417px;
+max-height: 523px;
+height: 60%;
+flex-shrink: 0;
+border-radius: 20px;
+background: rgba(39, 37, 32, 0.70);
+
+}
+
+.TopicPremium{
+    font-family: Jua;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.6px;
+    padding-bottom: 3%;
+    color:black;
+}
+.CardGoldern{
+    display: flex;
+    flex-direction:column;    
+    align-items: center;
+    width: 417px;
+    max-height: 523px;
+    height: 60%;
+    flex-shrink: 0;
+    border-radius: 20px;
+ background: rgba(192, 176, 112, 0.70);
+}
+.CardPremium{
+    display: flex;
+    flex-direction:column;    
+    align-items: center;
+    width: 417px;
+    max-height: 523px;
+    height: 60%;
+    flex-shrink: 0;
+    border-radius: 20px;
+ background: rgba(0, 212, 173, 0.70);
+}
+
+.Button{
+margin-bottom: 1%;
+color: #FFF;
+font-family: Jua;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+    width: 383px;
+    text-align: center;
+    float: center;
+    padding-top:10px;
+height: 29px;
+flex-shrink: 0;
+    border-radius: 20px;
+    background:rgb(217, 217, 217,0.5);
+}
+
+.TopicSilver{
+    color: #C0B070;
+font-family: Jua;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.6px;
+padding-bottom: 3%;
+
+}
+
+.TopicGoldern{
+    font-family: Jua;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: 1.6px;
+    padding-bottom: 3%;
+    color:white;
+
+}
+.CardBody{
+    max-height: 307px;
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    padding:4%;
+    margin-left: 15%;
+}
+
+.Price{
+    color: #FFF;
+font-family: Jua;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 2.88px;
+margin-top: 3%;
+margin-bottom: 1%;
+}
+
+.Point{
+   display: grid;
+   width: 90%;
+   min-width: 383px;
+   color: #FFF;
+font-family: Jua;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 2.88px;
+   grid-template-columns:5% 85%;
+gap: 3%;
+}
+
+.Tik{
+  margin-top: 12%;  
+}
+.Button{
+    cursor: pointer;
+}

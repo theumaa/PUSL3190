@@ -1,0 +1,18 @@
+.MainTemplate {
+  width: 100%;
+  height: 100%;
+  max-height: 1vh;
+  position: fixed;
+}
+.Body {
+  width: 100%;
+  height: 100%;
+  min-height: 86vh;
+  background-image: url("./indoor1.png");
+}
+.ColorArea {
+  background: rgba(30, 30, 30, 0.7);
+  width: 100%;
+  height: 100%;
+  min-height: 86vh;
+}

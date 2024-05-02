@@ -1,0 +1,40 @@
+.Parent{
+    width: 95%;
+    border-top-right-radius: 50px;
+    border-top-left-radius: 50px;
+    background: #8A9788 ;
+    padding-left: 2.5%;
+    padding-right: 2.5%;
+    display: grid;
+    height:10vh;
+    grid-template-columns:auto auto auto ;
+    z-index: 1;
+    top:90%;
+    position:fixed;
+}
+
+
+.OneThird{
+    color: #FFF;
+font-family: Jua;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+align-self: center;
+display:flex;
+padding-left: 20%;
+}
+
+.Phone{
+    min-width:max-content;
+    margin-left: 3%;
+    margin-right: 3%;
+  }
+.Clock{
+  margin-right: 3%;
+}
+.Email{
+  margin-right: 3%;
+
+}

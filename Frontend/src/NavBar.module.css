@@ -1,0 +1,94 @@
+.NavBarPage{
+    background: #09203E;
+    width: 90%;
+    height:14vh;
+    display:flex;
+    padding-left:5%;
+    padding-right:5%;
+
+}
+.FirstHalf{
+  width:50%; 
+  height: 100%; 
+  display: flex;
+  flex-direction: row;
+ }
+.SecondHalf{
+    width:50%; 
+    height: 100%; 
+    display: flex;
+    flex-direction:row-reverse;
+   
+  }
+.OneItem{
+  width:20%;
+  height:100%;
+  color:#FFFFFF;
+  font-family: Jua;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+.Img{
+  height:80%;
+  padding-top: 12%;
+  padding-bottom: 8%;
+ 
+}
+
+.Button{
+ width: 100%;  
+ max-width: 240px;
+ height: 66px;
+ border-radius: 50px;
+ background: #C0B070;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
+
+.Button:hover{
+  cursor: pointer;
+}
+
+.OneItem:hover{
+    cursor: pointer;
+}
+.Phone{
+  min-width:max-content;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.SecondHalfItemOne{
+  width: 30%;
+  height:100%;
+  color:#FFFFFF;
+  font-family: Jua;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.SecondHalfItemTwo{
+  width: 67%;
+  height:100%;
+  color:#FFFFFF;
+  font-family: Jua;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 3%;
+  align-items: center;
+}

@@ -1,0 +1,29 @@
+.Parent{
+    display: grid;
+grid-template-rows: 10% 90%;
+height: 70%;
+width: auto;
+}
+.Grid{
+  display: grid;
+  grid-template-columns:auto auto auto auto AUTO;
+  gap:3% 1.5%;
+  padding: 2%;
+  grid-template-rows:auto auto auto ;
+  width: auto;
+  max-height:100%;
+}
+
+.Topic{
+    color: #FFF;
+-webkit-text-stroke-width: 1;
+-webkit-text-stroke-color: #000;
+font-family: Jua;
+font-size: 48px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding-bottom: 3%;
+max-height: 100%;
+padding-left: 3%;
+}
