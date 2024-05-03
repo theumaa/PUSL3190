@@ -1,6 +1,5 @@
-# Final Year Project 
+# PUSL3190 - Final Year Project 
 
-# PUSL3190
 This is my final year individual project done in 2024.
 
 # User Guidance
