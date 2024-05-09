@@ -4,33 +4,29 @@ This is my final year individual project done in 2024.
 
 # User Guidance
 
-
-
 # Step 1 -> 
 First you need to download this zip folder into your local machine.
 
 # Step 2 ->
-Then go to my DLE submission file and there have .env code, copy that and create .env file on your backend folder and paste it(imported).
+Then go to my DLE submission file and there have .env code, copy that and create .env file on your backend folder and paste it(optional for downloading Git).
 
-# Go to the DLE submission zip folder and get .env code and create .env file in your backend and paste that code.
+# Step 3 ->
+Open your XAMPP and start MySQL and APACHE servers.
 
-Step 2 -> After that you need to download Composer into your desktop.
+# Step 4 ->
+Open your code and go to backend part install composer.
 
-Step 3 -> Then go to the project folder and open it on your terminal and running your xampp MySQL server and Apache server as well.
+# Step 5 ->
+Start server in php artisan.
 
-Step 4 -> To create a database using Laravel's php artisan command while serving your application with php artisan serve, you'll first need to make sure that your Laravel application is set up properly and you have a working database configuration in your .env file.
+# Step 6 ->
+Then go to your frontend and install node modules.
 
-Step 5 -> Navigate to your Laravel project directory: Open a terminal window and change to the directory where your Laravel project is located.
+# Step 7 ->
+After that run your frontend as well.
 
-Step 6 -> Start the Laravel development server: Run the following command to start the Laravel development server
-
-Step 7 -> Create the Database: While the development server is running, open a new terminal window (so you can keep the development server running) and navigate to your Laravel project directory if you're not already there.
-
-Step 8 -> Run the migration: Once you've defined the structure of your table in the migration file, run the migration command to create the table in your database
-
-Step 9 -> Verify database creation: You can verify that the database and table were created successfully by checking your database management tool or by querying the database using PHPMyAdmin or another tool.
-
-
+# Step 8 ->
+Enjoy Your Booking System !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.
 
 # Requirements
 
