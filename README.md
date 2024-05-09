@@ -7,7 +7,7 @@ Step 1 -> First user need to download project file go trough the github link and
 
 Step 2 -> After that you need to download Composer into your desktop.
 
-Step 3 -> Then go to the project folder and open it on your terminal.
+Step 3 -> Then go to the project folder and open it on your terminal and running your xampp MySQL server and Apache server as well.
 
 Step 4 -> To create a database using Laravel's php artisan command while serving your application with php artisan serve, you'll first need to make sure that your Laravel application is set up properly and you have a working database configuration in your .env file.
 
