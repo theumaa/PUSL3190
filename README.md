@@ -7,6 +7,9 @@ This is my final year individual project done in 2024.
 # Step 1 -> 
 First you need to download this zip folder into your local machine.
 
+# Step 2 ->
+Then go to my DLE submission file and there have .env code, copy that and create .env file on your backend folder and paste it(imported).
+
 # Go to the DLE submission zip folder and get .env code and create .env file in your backend and paste that code.
 
 Step 2 -> After that you need to download Composer into your desktop.
