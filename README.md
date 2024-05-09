@@ -3,7 +3,10 @@
 This is my final year individual project done in 2024.
 
 # User Guidance
+
 Step 1 -> First user need to download project file go trough the github link and get .env code in other uploaded folder in DLE after that create .env file and copy paste that code into there. This is imported.
+
+# Go to the DLE submission zip folder and get .env code and create .env file in your backend and paste that code.
 
 Step 2 -> After that you need to download Composer into your desktop.
 
