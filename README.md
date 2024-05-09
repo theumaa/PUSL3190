@@ -3,7 +3,7 @@
 This is my final year individual project done in 2024.
 
 # User Guidance
-Step 1 -> First user need to download project file go trough the github link and get .env code in other uploaded folder in DLE after that create .env file and copy paste that code into there. This is imported
+Step 1 -> First user need to download project file go trough the github link and get .env code in other uploaded folder in DLE after that create .env file and copy paste that code into there. This is imported.
 
 Step 2 -> After that you need to download Composer into your desktop.
 
