@@ -34,3 +34,8 @@ Enjoy Your Booking System !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!.
 4. Node.js and NPM (Optional): If your Laravel application utilizes front-end React technology, you'll need to have Node.js and NPM (Node Package Manager) installed to manage and install JavaScript dependencies.
 5. Operating System Compatibility: Laravel can run on Windows, macOS, and Linux-based systems. Ensure that your operating system is compatible and meets the Laravel system requirements.
 6. IDE or Text Editor: While not strictly required, having an Integrated Development Environment (IDE) or a text editor configured for PHP development can greatly enhance your productivity when working with Laravel.
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!HAVE A GOOD DAY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
